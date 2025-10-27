@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Keshav+Jangir!;Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;Passionate+about+Clean+Code+and+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Keshav+Jangir!;Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </h1>
 
 <p align="center">
